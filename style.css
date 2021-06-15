@@ -1,0 +1,152 @@
+header{
+    position: absolute;
+    width: 1440px;
+    height: 73px;
+    left: 0px;
+    top: 0px;
+    background: #090808;
+}
+
+a{
+    text-decoration: none;
+}
+
+.logo{
+
+position: absolute;
+width: 191px;
+height: 29px;
+left: 82px;
+top: 21px;
+
+font-family: Cabin;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 29px;
+border: 2px solid red;
+color: #10FF36;
+}
+
+.topic{
+    position: absolute;
+    width: 174px;
+    height: 29px;
+    left: 338px;
+    top: 21px;
+
+    font-family: Cabin;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 29px;
+
+    color: #FFFFFF;
+}
+
+.feedback{
+    position: absolute;
+    width: 99px;
+    height: 29px;
+    left: 607px;
+    top: 22px;
+
+    font-family: Cabin;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 29px;
+
+    color: #FFFFFF;
+}
+
+.login{
+    position: absolute;
+    width: 63px;
+    height: 29px;
+    left: 942px;
+    top: 21px;
+
+    font-family: Cabin;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 29px;
+
+    color: #FFFFFF;
+}
+
+.signIn{
+    position: absolute;
+    width: 263px;
+    height: 29px;
+    left: 1092px;
+    top: 21px;
+
+    font-family: Cabin;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 29px;
+
+    color: #FFFFFF;
+    
+
+}
+
+.principal h1{
+    position: absolute;
+width: 537px;
+height: 136px;
+left: 135px;
+top: 200px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 60px;
+line-height: 68px;
+/* or 113% */
+
+letter-spacing: -1px;
+
+color: #381515;
+}
+
+.principal  p{
+    position: absolute;
+width: 571px;
+height: 60px;
+left: 135px;
+top: 358px;
+
+font-family: Mulish;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 30px;
+/* or 150% */
+
+
+color: #211515;
+}
+
+.principal a{
+    position: absolute;
+    width: 263px;
+    height: 50px;
+    left: 266px;
+    top: 467px;
+    
+}
+.principal div{
+    position: absolute;
+width: 723px;
+height: 441.15px;
+left: 676px;
+top: 162px;
+
+background: #000000;
+box-shadow: 0px 39.2136px 53.9186px #818A8C;
+border-radius: 24.5085px 0px 0px 24.5085px;
+}
